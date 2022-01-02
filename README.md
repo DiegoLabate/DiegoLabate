@@ -1,1 +1,1 @@
-I'm interested in time-series forecasting especially in the energy related field, by means of Long short-term memory network (LSTM) solution.  
+Machine Lerning practitioner with interest in the energy field. Digital innovator with +15 year in Utility industry. Working with Deep Learning CNN and LSTM network.  
